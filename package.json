@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Goldaboss/emptyProject.git"
+    "url": "git+https://github.com/Goldaboss/logo-test.git"
   },
   "author": "Goldaboss",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Goldaboss/emptyProject/issues"
+    "url": "https://github.com/Goldaboss/logo-test/issues"
   },
-  "homepage": "https://github.com/Goldaboss/emptyProject#readme",
+  "homepage": "https://github.com/Goldaboss/logo-test#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
